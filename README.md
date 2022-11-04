@@ -4,4 +4,4 @@ A project I did as a part of creative programming course. This Unity application
 
 Developed in Unity version `2021.3.10f1`
 
-![demo gif](./img/playing.gif)
+![demo gif](./md/playing.gif)
